@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# MongoDB database files
+Backend/data/
+backend/data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

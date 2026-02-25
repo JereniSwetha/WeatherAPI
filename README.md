@@ -1,28 +1,27 @@
-# 🌦️ Weather API Project
+# 🌦️ Weather API
 
-A RESTful Weather API built to fetch and manage weather-related data using modern backend development practices.  
-This project is designed for learning API development, data handling, and deployment workflows.
+A backend REST API built using **Node.js** for managing and serving weather data.  
+This project demonstrates clean backend architecture with controllers, routes, models, and data processing scripts.
 
 ---
 
-## 🚀 Features
+## 🚀 Project Overview
 
-- 🌍 Fetch weather information by location
-- 📊 Structured JSON API responses
-- ⚡ Fast and lightweight backend
-- 🔄 Clean project architecture
-- 🧹 Data processing & error handling
-- 📡 API-ready endpoints for integration
+The Weather API allows users to:
+
+- 📍 Retrieve weather information
+- 📊 Manage structured weather datasets
+- ⚙️ Process and clean data using scripts
+- 🔌 Access RESTful endpoints for integration with frontend or external apps
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Express,Node
-- **API:** REST Architecture
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Environment Config:** dotenv
 - **Version Control:** Git & GitHub
 - **IDE:** VS Code
 
 ---
-
-## 📂 Project Structure
